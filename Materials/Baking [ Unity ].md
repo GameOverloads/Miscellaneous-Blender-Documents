@@ -106,4 +106,6 @@ STEP 2 - SAVE IMAGE DATA
 |  Compression   |         0%           |
 |  Color Space   |        sRGB          |
 
+- Name As Needed
+
 - Tap Save As Image
